@@ -12,5 +12,7 @@ $ docker build -t nextcloud_patched .
 $ docker run ... nextcloud_patched
 ```
 
+After installation of ocdownloader, choose `Aria2` for the downloader option (should be default).
+
 # Credit
 All credits to https://github.com/frontc/docker, thanks for the work.
